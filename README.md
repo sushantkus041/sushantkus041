@@ -81,12 +81,19 @@ Languages and tools</h1>
 <h1>Contect me</h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="55" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/shrikant-kushwaha-669378255/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="55" alt="linkedin logo" />
+  </a>
 
-  <img src="https://img.shields.io/badge/Discord-4B0082?style=for-the-badge&logo=discord&logoColor=white" height="55" alt="discord logo" />
+  <a href="https://discord.gg/YOUR_DISCORD_INVITE" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-4B0082?style=for-the-badge&logo=discord&logoColor=white" height="55" alt="discord logo" />
+  </a>
 
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-0A2540?style=for-the-badge&logoColor=white" height="55" alt="portfolio badge" />
+  <a href="https://shrikant.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-0A2540?style=for-the-badge&logoColor=white" height="55" alt="portfolio badge" />
+  </a>
 </div>
+
 
 
 
