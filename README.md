@@ -66,6 +66,8 @@
   <img src="https://img.shields.io/badge/🌐%20Portfolio-0A2540?style=for-the-badge&logoColor=white" height="55" alt="portfolio badge" />
 </div>
 
+<img src="https://raw.githubusercontent.com/sushantkus041/snake/output/github-contribution-grid-snake.svg" />
+
 
 
 
