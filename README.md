@@ -6,10 +6,10 @@ I am a Full Stack Web Developer and an AI/ML Developer,
 focused on building scalable web applications and intelligent systems.
 
 <div align="left">
-  <h2>See all about me, visit my portfolio   <a href="https://shrikant.dev">
-  <img src="https://img.shields.io/badge/shrikant.dev-FFEB3B?style=flat-square&logo=google-chrome&logoColor=000000" alt="portfolio link" />
+See all about me, visit my portfolio   <a href="https://shrikant.dev">
+  <img src="https://img.shields.io/badge/shrikant.dev-FFEB3B?&logoColor=000000" alt="portfolio link" />
 </a>
-    </h2>
+
 </div>
 
 
