@@ -1,7 +1,13 @@
-<h1>Hey 👋What's Up?</h1>
+<h1>Hello, I'm Shrikant 👋</h1>
 
 ###
 
+<h1>I am a passionate Full Stack Web Developer and an AI/ML Developer, 
+focused on building scalable web applications and intelligent systems.</h1>
+
+###
+<h1>
+Languages and tools</h1>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
   <img width="12" />
@@ -57,6 +63,8 @@
 </div>
 
 <br><br>
+
+<h1>Contect me</h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="55" alt="linkedin logo" />
