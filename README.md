@@ -1,10 +1,12 @@
 <h1>Hello, I'm Shrikant 👋</h1>
 
-###
+## 👨‍💻 About Me
 
-<h1>I am a passionate Full Stack Web Developer and an AI/ML Developer, 
-focused on building scalable web applications and intelligent systems.</h1>
+I am a passionate Full Stack Web Developer and AI/ML Developer  
+with a strong interest in modern web technologies and intelligent systems.
 
+🌐 **See all about me:**  
+Explore my portfolio at **https://shrikant.dev**
 ###
 <h1>
 Languages and tools</h1>
@@ -74,7 +76,6 @@ Languages and tools</h1>
   <img src="https://img.shields.io/badge/🌐%20Portfolio-0A2540?style=for-the-badge&logoColor=white" height="55" alt="portfolio badge" />
 </div>
 
-<img src="https://raw.githubusercontent.com/sushantkus041/snake/output/github-contribution-grid-snake.svg" />
 
 
 
