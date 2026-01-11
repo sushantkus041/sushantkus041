@@ -1,3 +1,7 @@
+<h1>Hey 👋What's Up?</h1>
+
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
   <img width="12" />
@@ -46,3 +50,13 @@
        height="45"
        alt="numpy logo" />
 </div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="50" alt="linkedin logo" />
+
+  <img src="https://img.shields.io/badge/Discord-4B0082?style=for-the-badge&logo=discord&logoColor=white" width="115" height="50" alt="discord logo" />
+</div>
+
+
