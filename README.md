@@ -49,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
        height="45"
        alt="numpy logo" />
-  <img src="https://skillicons.dev/icons?i=aws,scikitlearn" height="60" alt="scikit-learn logos" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" height="60" alt="scikit-learn logos" />
 <img width="12" />
 
 
