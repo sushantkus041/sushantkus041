@@ -54,11 +54,12 @@ Languages and tools</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="45" alt="keras logo"
        style="border:2px solid #e53935; border-radius:8px; padding:4px; background:white;" />
   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=scikitlearn" height="60" alt="scikit-learn logos" />
+<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
        height="45"
        alt="numpy logo" />
-  <img src="https://skillicons.dev/icons?i=scikitlearn" height="60" alt="scikit-learn logos" />
-<img width="12" />
+ 
 
 
 
