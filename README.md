@@ -2,11 +2,11 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate Full Stack Web Developer and AI/ML Developer  
-with a strong interest in modern web technologies and intelligent systems.
+I am a Full Stack Web Developer and an AI/ML Developer,  
+focused on building scalable web applications and intelligent systems.
 
-🌐 **See all about me:**  
-Explore my portfolio at **https://shrikant.dev**
+🌐 **See all about me:**  <a href="https://shrikant.dev" target="_blank">Shrikant.dev</a>
+
 ###
 <h1>
 Languages and tools</h1>
@@ -65,7 +65,7 @@ Languages and tools</h1>
 
 </div>
 
-<br><br>
+
 
 <h1>Contect me</h1>
 
